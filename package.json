@@ -1,5 +1,5 @@
 {
-  "name": "title-pages",
+  "name": "superuse-logo-tool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellojasonbooth/title-pages.git"
+    "url": "git+https://github.com/hellojasonbooth/superuse-logo-tool.git"
   },
   "author": "jason booth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hellojasonbooth/title-pages/issues"
+    "url": "https://github.com/hellojasonbooth/superuse-logo-tool/issues"
   },
-  "homepage": "https://github.com/hellojasonbooth/title-pages#readme",
+  "homepage": "https://github.com/hellojasonbooth/superuse-logo-tool#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
